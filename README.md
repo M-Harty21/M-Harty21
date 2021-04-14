@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**M-Harty21/M-Harty21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Hey there my name is Matt <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
